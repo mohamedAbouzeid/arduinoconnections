@@ -1,1 +1,1 @@
-web: gunicorn adjustSender.wsgi --log-file -
+web: gunicorn gettingstarted.wsgi --log-file -
